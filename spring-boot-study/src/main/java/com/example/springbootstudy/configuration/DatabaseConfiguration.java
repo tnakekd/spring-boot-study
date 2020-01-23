@@ -1,4 +1,4 @@
-package com.example.board.configuration;
+package com.example.springbootstudy.configuration;
 
 import javax.sql.DataSource;
 
