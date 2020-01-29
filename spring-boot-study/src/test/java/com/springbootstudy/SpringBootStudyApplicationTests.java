@@ -1,4 +1,4 @@
-package com.example.springbootstudy;
+package com.springbootstudy;
 
 import org.junit.jupiter.api.Test;
 import org.mybatis.spring.SqlSessionTemplate;
