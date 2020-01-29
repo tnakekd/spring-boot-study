@@ -8,3 +8,5 @@
 [1.5장 Intellij에서 SpringBoot 시작하기](https://www.notion.so/tnakekd/1-5-Intellij-SpringBoot-b832d7f1cad246679ce9ab55027657ef)
 
 [2장. 스프링 프로젝트 만들어보기](https://www.notion.so/tnakekd/2-23fc78b9220a4e2bb57e0e13b460291d)
+
+[3장. 스프링 프레임워크 이해하기](https://www.notion.so/tnakekd/3-cdea6b5184b943a69e9b510f76435a6e)
