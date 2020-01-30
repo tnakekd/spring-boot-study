@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.springbootstudy.board.mapper.BoardMapper">
+    <select id="selectBoardList" resultType="com.springbootstudy.board.vo.BoardVO">
+        <![CDATA[
+            SELECT
+                BOARD_SEQ,
+                TITLE,
+                HIT_COUNT,
+                DATE_FORMAT(CREATED_DATETIME, '%Y.%m.%d') AS CREATED_DATETIME
+            FROM BOARD
+            ORDER BY BOARD_SEQ DESC
+        ]]>
+    </select>
+</mapper>
