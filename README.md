@@ -12,3 +12,5 @@
 [3장. 스프링 프레임워크 이해하기](https://www.notion.so/tnakekd/3-cdea6b5184b943a69e9b510f76435a6e)
 
 [4장. 간단한 게시판 구현하기](https://www.notion.so/tnakekd/4-64c8bc7ae569423e96cebd1646445ac1)
+
+[5장. 스프링의 다양한 기능 살펴보기](https://www.notion.so/tnakekd/5-a692d11b6bb84cf1a684b0c6d54880bc)
